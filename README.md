@@ -1,4 +1,4 @@
 # hello-world
 test 
-hallo mei erster eintrag
+hallo mei eintrag
 klar so ist das
